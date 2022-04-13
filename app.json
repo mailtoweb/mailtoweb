@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/lxbe/vme",
+    "repository": "https://github.com/lxbe/heroku_vmess",
     "stack": "container"
 }
